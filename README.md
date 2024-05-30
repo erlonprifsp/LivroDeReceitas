@@ -1,8 +1,15 @@
-# README
+# Aplicativo Livro de Receitas
+
+> **NOTA IMPORTANTE**
+>
+> O aplicativo foi desenvolvido na linguaguem Flutter utilizando a IDE em nuvem **ZAPP** devido a sua praticidade tanto para o desenvolvimento como para a análise do código.
+>
+> Caso queira visualizar e executar o código **DE FORMA ONLINE** basta acessar a seguinte URL:
+> [https://zapp.run/edit/flutter-zf9s06xyf9t0?entry=lib/main.dart&file=lib/recipe_details_page.dart](https://zapp.run/edit/flutter-zf9s06xyf9t0?entry=lib/main.dart&file=lib/recipe_details_page.dart)
 
 ---
 
-## Dados do aluno
+## DADOS DO ALUNO
 
 **Curso:** Especialização em Desenvolvimento de Sistemas para Dispositivos Móveis
 
@@ -16,7 +23,7 @@
 
 ---
 
-## Atividade avaliativa
+## ATIVIDADE AVALIATIVA
 
 **Desenvolvendo um app usando IA generativa**
 
@@ -35,17 +42,12 @@ A entrega deve ser preferencialmente via Github. Caso tenham algum impedimento c
 
 ## RESOLUÇÃO DA ATIVIDADE AVALIATIVA
 
-
-> NOTA IMPORTANTE:
->
-> O aplicativo foi desenvolvido na linguaguem Flutter utilizando a IDE em nuvem **ZAPP**.
-> Caso queira visualizar e executar o código **DE FORMA ONLINE** basta acessar a seguinte URL:
-> [https://zapp.run/edit/flutter-zf9s06xyf9t0?entry=lib/main.dart&file=lib/recipe_details_page.dart](https://zapp.run/edit/flutter-zf9s06xyf9t0?entry=lib/main.dart&file=lib/recipe_details_page.dart)
-
 ### Sobre o aplicatico
 
 Foi desenvolvido um aplicativo utilizando a linguagem Flutter para a atividade prática da disciplina, com o objetivo de consumir a API TheMealDB e exibir receitas culinárias de diferentes cozinhas.
+
 O aplicativo foi desenvolvido com o auxílio de ferramentas de inteligência artificial generativa ChatGPT e ClaudeAI.
+
 O aplicativo permite que o usuário selecione uma cozinha de uma lista predefinida e, em seguida, busque receitas relacionadas à cozinha escolhida. As receitas são exibidas em uma lista, mostrando o nome e a imagem de cada uma. Ao tocar em uma receita específica, o aplicativo navega para uma página de detalhes, onde são exibidas informações mais completas, como a categoria, as instruções de preparo e uma imagem maior da receita.
 
 ### Ferramentas de IA utilizadas
@@ -54,11 +56,13 @@ Durante o desenvolvimento deste aplicativo, foram utilizadas as seguintes ferram
 
 **ChatGPT**
 
-O ChatGPT foi amplamente utilizado para obter orientações e explicações sobre conceitos relacionados ao desenvolvimento de aplicativos Flutter, consumo de APIs e implementação de recursos específicos. Além disso, o ChatGPT forneceu exemplos de código e sugeriu soluções para problemas encontrados durante o desenvolvimento.
+O ChatGPT foi amplamente utilizado para obter orientações e explicações sobre conceitos relacionados ao desenvolvimento de aplicativos Flutter, consumo de APIs e implementação de recursos específicos.
+Além disso, o ChatGPT forneceu exemplos de código e sugeriu soluções para problemas encontrados durante o desenvolvimento.
 
 **ClaudeAI**
 
-O ClaudeAI foi utilizado para gerar trechos de código e auxiliar na estruturação do projeto. Com base nas descrições e requisitos fornecidos, o ChatGPT gerou o código inicial do aplicativo, que foi posteriormente refinado e adaptado conforme necessário pelo ClaudeAI.
+O ClaudeAI foi utilizado para gerar trechos de código e auxiliar na estruturação do projeto.
+Com base nas descrições e requisitos fornecidos, o ChatGPT gerou o código inicial do aplicativo, que foi posteriormente refinado e adaptado conforme necessário pelo ClaudeAI.
 
 ### Tempo e esforço
 
@@ -69,7 +73,8 @@ Aproximadamente 85% do código foi gerado pelas ferramentas de IA, enquanto o re
 ### Sentimentos e experiência
 
 O uso das ferramentas de IA foi uma experiência interessante e desafiadora.
-Inicialmente, houve um sentimento de animação e curiosidade em explorar as capacidades dessas ferramentas. No entanto, ao longo do processo, foram enfrentados alguns desafios, como a necessidade de refinar e adaptar o código gerado, o que gerou momentos de frustração.
+Inicialmente, houve um sentimento de animação e curiosidade em explorar as capacidades dessas ferramentas.
+No entanto, ao longo do processo, foram enfrentados alguns desafios, como a necessidade de refinar e adaptar o código gerado, o que gerou momentos de frustração.
 No geral, a experiência foi positiva e enriquecedora, proporcionando uma nova perspectiva sobre o desenvolvimento de software com o auxílio da inteligência artificial.
 
 ### Conclusão
