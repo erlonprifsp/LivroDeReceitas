@@ -48,6 +48,9 @@ Foi desenvolvido um aplicativo utilizando a linguagem Flutter para a atividade p
 
 O aplicativo foi desenvolvido com o auxílio de ferramentas de inteligência artificial generativa ChatGPT e ClaudeAI.
 
+![screenshoot-app-ai](https://github.com/erlonprifsp/LivroDeReceitas/assets/150167943/b68a77f7-1322-4361-b99a-929164e13eb9)
+
+
 O aplicativo permite que o usuário selecione uma cozinha de uma lista predefinida e, em seguida, busque receitas relacionadas à cozinha escolhida. As receitas são exibidas em uma lista, mostrando o nome e a imagem de cada uma. Ao tocar em uma receita específica, o aplicativo navega para uma página de detalhes, onde são exibidas informações mais completas, como a categoria, as instruções de preparo e uma imagem maior da receita.
 
 ### Ferramentas de IA utilizadas
